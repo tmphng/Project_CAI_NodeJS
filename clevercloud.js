@@ -1,0 +1,21 @@
+{
+	"name" : "ApiCesi",
+	"private" : true,
+	"version" : "0.0.1",
+	"description" : "Simple node api",
+	"author" : TM,
+	"dependencies" : {
+	"body-parser" : "^1.12.4",
+	"crypto" : "0.0.3",
+	"express" : "",
+	"redis" : ""
+	},
+
+	"scripts" : {
+	"start" : "node main.js"
+	},
+	
+	"engines" : {
+	"node" : ">=0.6"
+	}
+}
